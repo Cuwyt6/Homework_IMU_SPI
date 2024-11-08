@@ -1,0 +1,5 @@
+ToolSet: 11.0 w64 (local)@D:\CLion\bin\mingw
+Ninja: 1.12.0@D:\CLion\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_CXX_COMPILER=D:/STM32Cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-g++.exe
